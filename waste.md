@@ -265,7 +265,7 @@ operate](https://psmag.com/ideas/the-hiding-place-inside-the-worlds-first-long-t
 an excellent video describing the plan. 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A9vWhoT_45s" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/A9vWhoT_45s" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Deep Boreholes
